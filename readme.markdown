@@ -144,7 +144,10 @@ We will cover:
 </table>
 
 As the web platform becomes more powerful, web pages are going to look more and
-more like distributed systems.
+more like distributed systems. Web pages, $5 linux computers, wifi-enabled sensors, and
+mobile devices are coming online, and we'll need sophisticated planet-scale mesh
+topologies to make sense of it all without depending on the high latencies and
+low throughput of a few centralized vendors.
 
 Even if you're not building a strictly peer to peer application, these ideas
 will help you and your team to build better offline, fault-tolerant
